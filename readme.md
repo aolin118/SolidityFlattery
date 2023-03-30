@@ -1,3 +1,5 @@
+Add a new line for test
+
 SolidityFlattery
 ================
 
